@@ -1,5 +1,6 @@
 # SimpImSim
-Simulation of an artificial stellar field using Gaussian profile for stars and a Poisson distribution for the shot noise.
+Simulation of an artificial stellar field with Gaussian profile for stars and a Poisson distribution for the shot noise.
+Using AstroPy and Photutils.
 
 <p align="center">
 <img src="mov.gif" width="600" />
