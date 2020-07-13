@@ -1,4 +1,4 @@
-# SimpImSim
+# Artificial Gaussian Stars
 Simulation of an artificial stellar field with Gaussian profile for stars and a Poisson distribution for the shot (background) noise.
 Using AstroPy and Photutils.
 
